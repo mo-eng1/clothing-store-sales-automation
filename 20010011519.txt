@@ -1,0 +1,5 @@
+1 nolu sipariş kazak 5 adet 235 TL konya 
+2 nolu sipariş pantolon 5 adet 375 TL ankara 
+3 nolu sipariş etek 1 adet 500 TL hatay 
+
+4 nolu sipariş ceket 8 adet 1200 TL malatya 
